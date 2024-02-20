@@ -36,7 +36,7 @@ pip install numpy matplotlib ipython
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für Details.
+Dieses Projekt ist unter der Unlizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für Details.
 
 ## Quellen
 
