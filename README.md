@@ -1,5 +1,5 @@
 
-# Large-Neighbourhood-Search für das Traveling Salesman Problem (LNS-TSP)
+# Large-Neighbourhood-Search für das Traveling Salesman Problem
 
 Dieses Repository enthält ein Jupyter Notebook, das die Anwendung der Large-Neighbourhood-Search (LNS) Heuristik auf das Traveling Salesman Problem (TSP) illustriert. Ziel des Notebooks ist es, ein tieferes Verständnis der LNS-Heuristik und ihrer Anwendung auf kombinatorische Optimierungsprobleme wie das TSP zu vermitteln.
 
