@@ -32,7 +32,7 @@ pip install numpy matplotlib ipython
 
 ## Autor
 
-- Markus Fabian Lang
+Markus Fabian Lang
 
 ## Lizenz
 
