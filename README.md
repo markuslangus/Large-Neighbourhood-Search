@@ -13,22 +13,35 @@ Dieses Repository enthält ein Jupyter Notebook, das die Anwendung der Large-Nei
 
 ## Voraussetzungen
 
-Um das Jupyter Notebook auszuführen, werden folgende Python-Bibliotheken benötigt:
-- Numpy
-- Matplotlib
-- IPython (für interaktive Widgets)
-
-Diese Bibliotheken können über `pip` installiert werden:
+Um das Jupyter Notebook auszuführen, wird Python benötigt. Um Python zu installieren, wenden sie sich bitte an die offiziele Python Website https://www.python.org/.
+Wenn Sie Python auf diese Weise installieren, sollten Sie in der Lage sein, pip über Ihre Kommandozeile oder das Terminal zu verwenden.
+Um zu überprüfen, ob pip erfolgreich installiert wurde können Sie folgenden Befehl in der Kommandozeile oder im Terminal eingeben:
 
 ```bash
-pip install numpy matplotlib ipython
+pip --version
+```
+
+Das benötigte Jupyter Lab kann nun über `pip` installiert werden. Hierzu einfach in die Kommandozeile folgenden Befehl eingeben:
+
+```bash
+pip install jupyter lab
 ```
 
 ## Nutzung
 
 1. Klonen Sie das Repository oder laden Sie das Jupyter Notebook direkt herunter.
-2. Stellen Sie sicher, dass Sie die benötigten Python-Bibliotheken installiert haben.
-3. Öffnen Sie das Notebook in Jupyter Lab oder Jupyter Notebook und führen Sie die Zellen aus, um die Implementierung und Ergebnisse zu sehen.
+2. Öffnen Sie Jupyter Lab. Hierfür einfach in die Kommandozeile folgenden Befehl eingeben:
+3
+```bash
+jupyter lab
+```
+
+Nun öffnet sich Jupyter Lab im Browserfenster automatisch.
+
+3. Rufen Sie nun in Jupyter Lab den Speicherort des heruntergeladenen Notebooks und offnen Sie es.
+4. Das Jupyter Notebook kann nun verwendet werden. Führen Sie die Zellen von oben nach unten nacheinander aus um die Implementierung und Ergebnisse zu sehen.
+   Hinweis: Wenn Sie die interaktiven Regler bedienen und die Reihenfolge von oben nach unten nicht einhalten kann es zu einer Fehlermeldung kommen.
+            Hierfür einfach
 
 ## Autor
 
