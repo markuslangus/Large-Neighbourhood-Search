@@ -44,7 +44,7 @@ pip install jupyter lab
 
 ## Quellen
 
-Die im Notebook verwendeten Quellen sind im Abschnitt "Quellen" des Notebooks aufgeführt.
+Die im Notebook verwendeten Quellen sind im Abschnitt "Quellen" der ```.ipynb```-Datei aufgeführt.
 
 ## Autor
 
