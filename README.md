@@ -14,8 +14,8 @@ Dieses Repository enthält ein Jupyter Notebook, das die Anwendung der Large-Nei
 ## Voraussetzungen
 
 Um das Jupyter Notebook auszuführen, wird Python benötigt. Um Python zu installieren, wenden sie sich bitte an die offiziele Python Website https://www.python.org/.
-Wenn Sie Python auf diese Weise installieren, sollten Sie in der Lage sein, pip über Ihre Kommandozeile oder das Terminal zu verwenden.
-Um zu überprüfen, ob pip erfolgreich installiert wurde können Sie folgenden Befehl in der Kommandozeile oder im Terminal eingeben:
+Wenn Sie Python auf diese Weise installieren, sollten Sie in der Lage sein, `pip` über Ihre Kommandozeile oder das Terminal zu verwenden.
+Um zu überprüfen, ob `pip` erfolgreich installiert wurde können Sie folgenden Befehl in der Kommandozeile oder im Terminal eingeben:
 
 ```bash
 pip --version
