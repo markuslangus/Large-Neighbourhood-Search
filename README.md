@@ -40,8 +40,7 @@ pip install jupyter lab
 
 4. Rufen Sie nun in Jupyter Lab den Speicherort des heruntergeladenen Notebooks auf und öffnen Sie die `.ipynb`-Datei.
 5. Das Jupyter Notebook kann nun verwendet werden. Führen Sie die Zellen von oben nach unten nacheinander aus um die Implementierung und Ergebnisse zu sehen.
-   Hinweis: Wenn Sie die interaktiven Regler bedienen und die Reihenfolge von oben nach unten nicht einhalten kann es zu einer Fehlermeldung kommen.
-            Hierfür einfach `restart the kernel` drücken und die Zellen erneut nacheinander von oben nach unten ausführen.
+6. Hinweis: Wenn Sie die interaktiven Regler bedienen und die Reihenfolge von oben nach unten nicht einhalten kann es zu einer Fehlermeldung kommen. Hierfür einfach `restart the kernel` drücken und die Zellen erneut nacheinander von oben nach unten ausführen.
 
 ## Autor
 
