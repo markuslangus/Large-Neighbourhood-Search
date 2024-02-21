@@ -31,17 +31,17 @@ pip install jupyter lab
 
 1. Klonen Sie das Repository oder laden Sie das Jupyter Notebook direkt herunter.
 2. Öffnen Sie Jupyter Lab. Hierfür einfach in die Kommandozeile folgenden Befehl eingeben:
-3
-```bash
-jupyter lab
-```
+   
+   ```bash
+   jupyter lab
+   ```
 
-Nun öffnet sich Jupyter Lab im Browserfenster automatisch.
+   Nun öffnet sich Jupyter Lab im Browserfenster automatisch.
 
-3. Rufen Sie nun in Jupyter Lab den Speicherort des heruntergeladenen Notebooks und offnen Sie es.
-4. Das Jupyter Notebook kann nun verwendet werden. Führen Sie die Zellen von oben nach unten nacheinander aus um die Implementierung und Ergebnisse zu sehen.
+4. Rufen Sie nun in Jupyter Lab den Speicherort des heruntergeladenen Notebooks und offnen Sie es.
+5. Das Jupyter Notebook kann nun verwendet werden. Führen Sie die Zellen von oben nach unten nacheinander aus um die Implementierung und Ergebnisse zu sehen.
    Hinweis: Wenn Sie die interaktiven Regler bedienen und die Reihenfolge von oben nach unten nicht einhalten kann es zu einer Fehlermeldung kommen.
-            Hierfür einfach
+            Hierfür einfach `restart the kernel` drücken und die Zellen erneut nacheinander von oben nach unten ausführen.
 
 ## Autor
 
