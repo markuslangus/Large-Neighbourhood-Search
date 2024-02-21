@@ -42,6 +42,10 @@ pip install jupyter lab
 5. Das Jupyter Notebook kann nun verwendet werden. Führen Sie die Zellen von oben nach unten nacheinander aus um die Implementierung und Ergebnisse zu sehen.
 6. Hinweis: Wenn Sie die interaktiven Regler bedienen und die Reihenfolge von oben nach unten nicht einhalten kann es zu einer Fehlermeldung kommen. Hierfür einfach `restart the kernel` drücken und die Zellen erneut nacheinander von oben nach unten ausführen.
 
+## Quellen
+
+Die im Notebook verwendeten Quellen sind im Abschnitt "Quellen" des Notebooks aufgeführt.
+
 ## Autor
 
 Markus Fabian Lang
@@ -50,6 +54,6 @@ Markus Fabian Lang
 
 Dieses Projekt ist unter der Unlizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für Details.
 
-## Quellen
+## Kontakt
 
-Die im Notebook verwendeten Quellen sind im Abschnitt "Quellen" des Notebooks aufgeführt.
+Für weitere Informationen kontaktieren Sie mich gerne über meine im Profil angegebene E-Mail-Adresse.
